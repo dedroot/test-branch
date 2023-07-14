@@ -1,0 +1,42 @@
+---
+# ---[Name & Creation/Update Dates]------------------------------------------ #
+#  Filename ~ metadata.yml                   [ Created: 2023-06-19 | 12:52 ]  #
+#                                            [ Updated: 2023-06-23 | 14:27 ]  #
+# ---[Description & File Language]------------------------------------------- #
+#  Information about the GitPy repository that can be gather fast             #
+#  Language ~ Yaml                                                            #
+#  Version ~ 1.0.0                                                            #
+# ---[Authors]--------------------------------------------------------------- #
+#  Thomas Pellissier (MyMeepSQL)                                              #
+# ---[Maintainer]------------------------------------------------------------ #
+#  Thomas Pellissier (MyMeepSQL)                                              #
+# ---[Operating System]------------------------------------------------------ #
+#  Developed for Linux distros (for Debian and Arch based, for the moment)    #
+# --------------------------------------------------------------------------- #
+
+
+name: GitPy
+description: A Python3 tool for search and download a GitHub's repository directly from the terminal.
+version: 1.0.0
+authors:
+  mymeepsql:
+    fullname: Thomas Pellissier
+    codename: MyMeepSQL
+    discord: mymeepsql
+    email: thomas.pellissier.pro@proton.me
+    github: https://github.com/MyMeepSQL
+    twitter: https://twitter.com/MyMeepSQL
+repository:
+  license:
+    name: GPL-3.0
+    url: https://www.gnu.org/licenses/gpl-3.0.html
+  type: git
+  provider: GitHub
+  url: https://github.com/MyMeepSQL/gitpy
+  clone_url: https://github.com/MyMeepSQL/gitpy.git
+  changelog_url: https://github.com/MyMeepSQL/gitpy/blob/master/CHANGELOG.md
+  issues_url: https://github.com/MyMeepSQL/gitpy/issues
+  metadata_url_from_master: https://github.com/MyMeepSQL/gitpy/blob/master/gitpy/src/configs/metadata.yml
+  metadata_url_from_develop: https://github.com/MyMeepSQL/gitpy/blob/develop/gitpy/src/configs/metadata.yml
+  master_branch: master
+  develop_branch: develop
