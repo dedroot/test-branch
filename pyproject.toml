@@ -74,7 +74,7 @@ shtab               = "1.6.2"
 requests            = "2.31.0"
 rich                = "13.4.2"
 toml                = "0.10.2"
-urllib3             = "2.0.3"
+urllib3             = "2.0.7"
 wget                = "3.2"
 yq = "^3.2.3"
 
