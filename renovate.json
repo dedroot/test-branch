@@ -3,7 +3,7 @@
   "assignees": [
     "@dedroot"
   ],
-  "baseBranches": ["develop"]
+  "baseBranches": ["develop"],
   "addLabels": [
     "dependencies"
   ]
