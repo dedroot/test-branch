@@ -4,4 +4,7 @@
     "@dedroot"
   ],
   "baseBranches": ["develop"]
+  "addLabels": [
+    "dependencies"
+  ]
 }
