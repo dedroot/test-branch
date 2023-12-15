@@ -393,13 +393,13 @@ files = [
 
 [[package]]
 name = "colored"
-version = "2.2.2"
+version = "2.2.3"
 description = "Simple python library for color and formatting to terminal"
 optional = false
 python-versions = ">=3.9"
 files = [
-    {file = "colored-2.2.2-py3-none-any.whl", hash = "sha256:c7790b4557c8911ac877fff211a3ebe8b8655d4f0281dbbe1930d33ff23f96ed"},
-    {file = "colored-2.2.2.tar.gz", hash = "sha256:dfc918ed2261cea8794eef4e9f8fccc41e1db9293d9634acc009b860f4b812b9"},
+    {file = "colored-2.2.3-py3-none-any.whl", hash = "sha256:1318b2fb8e0313d39724b8ab0707af79d1e2c0e60710b608a00e70fe0f84ff5d"},
+    {file = "colored-2.2.3.tar.gz", hash = "sha256:1905ae45fa2b7fd63a8b4776586e63aeaba4df8db225b72b78fd167408558983"},
 ]
 
 [[package]]
@@ -1934,4 +1934,4 @@ testing = ["big-O", "jaraco.functools", "jaraco.itertools", "more-itertools", "p
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.9, <= 3.11.6"
-content-hash = "e76d1fc1ab2566b0fa92240d4abfa94ff8bc2b13069ccf0ef5c2e411b85821ee"
+content-hash = "5e63f6cb5605a03ec19f520ee8fb29ed6b2e2f73ac7fe574349f2f62741cb15c"
