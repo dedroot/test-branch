@@ -1529,13 +1529,13 @@ dev = ["pytest (>=6)", "pytest-cov", "pytest-timeout"]
 
 [[package]]
 name = "simple-term-menu"
-version = "1.6.1"
+version = "1.6.4"
 description = "A Python package which creates simple interactive menus on the command line."
 optional = false
 python-versions = "~=3.5"
 files = [
-    {file = "simple-term-menu-1.6.1.tar.gz", hash = "sha256:368b4158d1749b868552fb6c054b8301785086c71a7253dac8404cc3cb2d30e8"},
-    {file = "simple_term_menu-1.6.1-py3-none-any.whl", hash = "sha256:f12945d5c6998088e86a228e0aff12ff655f5bfad786c86677f23faa1d2afa50"},
+    {file = "simple-term-menu-1.6.4.tar.gz", hash = "sha256:be9c5dbd8df12a404b14cd8e95d6fc02d58c60e2555f65ddde41777c487fb3b9"},
+    {file = "simple_term_menu-1.6.4-py3-none-any.whl", hash = "sha256:5edc5e239060a780d089b6a079f113aeda6dbf91740327c2c70c541ea3a04b8d"},
 ]
 
 [[package]]
@@ -1934,4 +1934,4 @@ testing = ["big-O", "jaraco.functools", "jaraco.itertools", "more-itertools", "p
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.9, <= 3.11.6"
-content-hash = "e76d1fc1ab2566b0fa92240d4abfa94ff8bc2b13069ccf0ef5c2e411b85821ee"
+content-hash = "f91a8a7df631101444099ce7a8b383bdc5bd15def411ca4210828f672fdf941a"
