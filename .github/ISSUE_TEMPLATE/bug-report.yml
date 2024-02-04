@@ -31,7 +31,7 @@ body:
       default: 0
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: poetry_version
     attributes:
       label: Poetry's version
@@ -39,7 +39,7 @@ body:
       placeholder: Example: 1.6.1
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: pipx_version
     attributes:
       label: PIPX's version
@@ -47,7 +47,7 @@ body:
       placeholder: Example: 1.4.1
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: pyenv_version
     attributes:
       label: Pyenv's version
@@ -55,7 +55,7 @@ body:
       placeholder: Example: 2.3.35
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: python_env_version
     attributes:
       label: GitPy's Python environment version
