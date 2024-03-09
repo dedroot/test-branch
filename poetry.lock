@@ -1515,13 +1515,13 @@ files = [
 
 [[package]]
 name = "shtab"
-version = "1.6.2"
+version = "1.7.1"
 description = "Automagic shell tab completion for Python CLI applications"
 optional = false
 python-versions = ">=3.7"
 files = [
-    {file = "shtab-1.6.2-py3-none-any.whl", hash = "sha256:a1f0b9693c2e3b5c6933783fb356cd8c80896960a97a6acdc258bf2ac31fe11d"},
-    {file = "shtab-1.6.2.tar.gz", hash = "sha256:425d3b3e5d1b4ac59119fab5d40dfb01d4462676698e82dc404c707c6fdcd32c"},
+    {file = "shtab-1.7.1-py3-none-any.whl", hash = "sha256:32d3d2ff9022d4c77a62492b6ec875527883891e33c6b479ba4d41a51e259983"},
+    {file = "shtab-1.7.1.tar.gz", hash = "sha256:4e4bcb02eeb82ec45920a5d0add92eac9c9b63b2804c9196c1f1fdc2d039243c"},
 ]
 
 [package.extras]
@@ -1934,4 +1934,4 @@ testing = ["big-O", "jaraco.functools", "jaraco.itertools", "more-itertools", "p
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.9, <= 3.11.6"
-content-hash = "e76d1fc1ab2566b0fa92240d4abfa94ff8bc2b13069ccf0ef5c2e411b85821ee"
+content-hash = "dc99a9271c81e23e3d2ed649b8f5f4cb845672fa215056b3ebdfda432da6e1f8"
